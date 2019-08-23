@@ -10,8 +10,7 @@
         "name": "pm2-error-logger",
         "script": "index.js",
         "merge_logs": true,
-        "max_memory_restart": "200M",
-        "node_args": "--inspect=192.168.26.100:5999"
+        "max_memory_restart": "200M"
       }
     ],
     "author": "Denis Gasparin",
